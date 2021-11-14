@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuna Seyis</h1>
 <h3 align="center">I'm a software developer in test.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tseyis" alt="tseyis" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=tseyis&theme=darkhub&title=Repositories,Commit)](https://github.com/tseyis/github-profile-trophy)
 
 - 🔭 I’m currently working in **Bullhorn**
 
