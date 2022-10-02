@@ -3,9 +3,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tseyis&theme=darkhub&title=Repositories,Commit)](https://github.com/tseyis/github-profile-trophy)
 
-- 🔭 I’m currently working in **Bullhorn**
+- 🔭 I’m currently working in **ABN Amro**
 
-- 🌱 I’m currently learning **Gatling, load test**
+- 🌱 I’m currently learning **TestCafe**
 
 - 💬 Ask me about **Selenium, test automation**
 
